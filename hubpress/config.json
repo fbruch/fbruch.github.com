@@ -4,7 +4,12 @@
     "repositoryName": "fbruch.github.com",
     "branch": "master"
   },
+  "site": {
+    "title": "codereview",
+    "description": "Erfahrung und Meinung zum emanzipierten Umgang mit Online-Services und der Kontrolle der eigenen Daten und deren Verwendung"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
