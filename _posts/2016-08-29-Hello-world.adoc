@@ -1,3 +1,5 @@
 = Hello, world!
 
+:hp-tags: test
+
 This is a first blogpost to test this new http://HubPress.io powered blog.
