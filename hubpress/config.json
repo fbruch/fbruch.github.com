@@ -8,7 +8,10 @@
     "title": "codereview",
     "description": "Erfahrung und Meinung zum emanzipierten Umgang mit Online-Services und der Kontrolle der eigenen Daten und deren Verwendung"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "twitter": "fbruch",
+    "github": "fbruch"
+  },
   "theme": {
     "name": "ghostium"
   }
